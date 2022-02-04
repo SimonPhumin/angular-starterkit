@@ -121,7 +121,7 @@
 		"jest-preset-angular": "11.1.0",
 		"multiple-cucumber-html-reporter": "1.18.3",
 		"ncp": "2.0.0",
-		"node-fetch": "2.6.6",
+		"node-fetch": "2.6.7",
 		"onchange": "7.1.0",
 		"opn": "6.0.0",
 		"postcss-scss": "4.0.3",
